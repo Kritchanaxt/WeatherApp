@@ -93,7 +93,7 @@ struct HomeView: View {
                         showNewScreen.toggle()
                     })
                     .offset(y: bottomSheetTranslationProrated * 115)
-                    .padding(.top, 710)
+                    .padding(.top, 722)
                 }
             }
             .navigationBarHidden(true)
